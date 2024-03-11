@@ -18,10 +18,11 @@ Organizers: Kehan Yao (yaokehan@chinamobile.com), Yizhou Li (liyizhou@huawei.com
 
 ## Agenda
 1.	Admin 
-2.	Use cases, problem space and requirements: kehan Yao (China Mobile) 
-3.	In-Network Data Consistency: Yang Tian (Huawei)
-4.	RoCEv2-based Collective Communication Offloading: Feng Liu (H3C) 
-5.	The Requirements of a Unified Transport Protocol for INC in Support of RPC-based Applications: Haoyu Song (Futurewei) 
+2.	Use cases, problem space and requirements: kehan Yao (China Mobile)
+3.	TBD: I-HSIN CHUNG (IBM)
+4.	In-Network Data Consistency: Yang Tian (Huawei)
+5.	RoCEv2-based Collective Communication Offloading: Feng Liu (H3C) 
+6.	The Requirements of a Unified Transport Protocol for INC in Support of RPC-based Applications: Haoyu Song (Futurewei) 
 
 
 ## Introduction
