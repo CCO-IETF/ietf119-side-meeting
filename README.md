@@ -1,5 +1,5 @@
 # CCO (Collective Communication Optimizations) Side Meeting in IETF 119
-Colletive Communication Offloading and In-Network Computing in AI/HPC network
+Colletive Communication Optimizations and In-Network Computing in AI/HPC network
 
 **Time: 15:00-16:00 Monday (March 18, 2024), Brisbane (AEDT)**
   - UTC 04:00 - 05:00
@@ -19,7 +19,7 @@ Organizers: Kehan Yao (yaokehan@chinamobile.com), Yizhou Li (liyizhou@huawei.com
 ## Agenda
 1.	Admin 
 2.	Use cases, requirements and analysis - kehan Yao (China Mobile)
-3.	IBM Vela System co-design with collective communicationTBD - I-HSIN CHUNG (IBM)
+3.	IBM Vela System co-design with collective communication - I-HSIN CHUNG (IBM)
 4.	In-Network Data Consistency (INDAC) - Yang Tian (Huawei)
 5.	RoCEv2-based Collective Communication Offloading - Feng Liu (H3C) 
 6.	The Requirements of a Unified Transport Protocol for INC in Support of RPC-based Applications - Haoyu Song (Futurewei) 
