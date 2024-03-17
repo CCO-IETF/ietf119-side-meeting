@@ -21,7 +21,7 @@ Organizers: Kehan Yao (yaokehan@chinamobile.com), Yizhou Li (liyizhou@huawei.com
 2.	Use cases, requirements and analysis - kehan Yao (China Mobile)
 3.	IBM Vela System co-design with collective communication - I-HSIN CHUNG (IBM)
 4.	In-Network Data Consistency (INDAC) - Yang Tian (Huawei)
-5.	RoCEv2-based Collective Communication Offloading - Feng Liu (H3C) 
+5.	RoCEv2-based Collective Communication Offloading - Rubing Liu (H3C) 
 6.	The Requirements of a Unified Transport Protocol for INC in Support of RPC-based Applications - Haoyu Song (Futurewei) 
 
 
