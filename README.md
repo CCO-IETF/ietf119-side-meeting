@@ -1,7 +1,7 @@
 # CCO (Collective Communication Optimizations) Side Meeting in IETF 119
 Colletive Communication Optimizations and In-Network Computing in AI/HPC network
 
-**Time: 15:00-16:00 Monday (March 18, 2024), Brisbane (AEDT)**
+**Time: 15:00-16:00 Monday (March 18, 2024), Brisbane (AEST)**
 
 **Location: P6-7**
 
