@@ -2,11 +2,6 @@
 Colletive Communication Optimizations and In-Network Computing in AI/HPC network
 
 **Time: 15:00-16:00 Monday (March 18, 2024), Brisbane (AEDT)**
-  - UTC 05:00 - 06:00
-  - CET (UTC+1) 06:00 - 07:00
-  - CST (UTC+8) 13:00 - 14:00
-  - PST (UTC-8) 21:00 - 22:00 (Sunday)
-  - EST (UTC-5) 00:00 - 01:00
 
 **Location: P6-7**
 
